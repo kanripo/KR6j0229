@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 聖觀自在菩薩心真言瑜伽觀行儀軌
+#+DATE: 2015-08-30 20:28:20.013846
+#+PROPERTY: JUAN 0
