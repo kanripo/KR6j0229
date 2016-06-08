@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:19.833600
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:37
 #+TITLE: 聖觀自在菩薩心真言瑜伽觀行儀軌
 #+PROPERTY: CBETA_ID T20n1031
 #+PROPERTY: ID KR6j0229
